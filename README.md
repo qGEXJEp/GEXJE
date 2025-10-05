@@ -1,6 +1,6 @@
-<h1 align="center">Merhaba 👋, ben qGEXJEp</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
-
+<h1 align="center">Hi 👋, I'm qGEXJEp</h1>
+<h3 align="center">A passionate frontend developer from Türkiye</h
+                                                                 
 - 🔭 I’m currently working on **site_converter**
 
 - 🌱 I’m currently learning **I am studying for a bachelor's degree in information systems and technologies.**
