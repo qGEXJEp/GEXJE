@@ -13,14 +13,3 @@
 </alt="/alt="/www.com//blacon/sh="/a="/www.com/blank//blank"/lorerer/="/l="/www.com/a/s/l="/www.com//s/s/s/s/s/s/s/s/s/s/s/a/s/a/s/="> https//////https://https://https://////////////////////////"> http=https////////////////////////////////////////////////////// height="40"/> <</ </ <</ < < < href="="https://www.///java.com.com" target="_blank" rel=" rel="noreferrer"> <img src="https://///raw.github.com/devicons/devicons/master/icons/java/java-origal..." alt=" sv" width="40" width="40"/> </> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/Web/JavaScript" target="_blank" rel="noreferrerrer"> <img src="https://raw.githubuscontent.com/devicon
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs? kullanıcı adı=qgexjep&show_icons=true&locale=en&layout=compact" alt="qgexjep" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/? kullanıcı=qgexjep&" alt="qgexjep" /></p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=qGEXJEp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=qGEXJEp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qGEXJEp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=qGEXJEp&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
